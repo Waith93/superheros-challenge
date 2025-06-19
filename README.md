@@ -22,7 +22,7 @@ superheros-challenge/
 
 1. **Clone the repo**
 
-git clone https://github.com/your-username/superheros-challenge.git
+git clone https://github.com/Waith93/superheros-challenge.git
 cd superheros-challenge
 
 ### Create virtual environment and install dependencies
